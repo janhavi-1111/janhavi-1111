@@ -9,7 +9,8 @@ Welcome to my GitHub profile where I share projects, innovations, and ideas at t
 ⚡ Fun fact: I’ve authored five research papers—from 🤖 AI-powered military systems to smart agriculture—and I’m always looking for ways to turn research into real-world impact.
 
 
-Featured Projects
+## Featured Projects
+
 📱 Snapchat Enhanced | Product Design & Evaluation | Figma
 Reimagined Snapchat UX with Quiet Mode, real-time location sharing, and a customizable Discover feed. Created high-fidelity prototypes and user journeys for intuitive navigation.
 
@@ -28,10 +29,13 @@ Analyzed global mental health survey responses using DASS-21. Built 7 ML models 
 🪖 AI in Military Operations: Gesture Recognition 🤖 | OpenCV + MediaPipe + CNN
 Developed a real-time gesture recognition system to convert military hand signals into speech. Achieved 99% accuracy using CNN, Haar cascades, and MediaPipe. Designed for battlefield communication—lightweight, high-speed, and highly accurate, even under resource constraints.
 
-🛠 Technical Toolbox: Python, Apex, LWC, JavaScript, Tableau, Power BI, SQL, MongoDB, HTML/CSS, Figma
-🚀 Certifications: CAPM®, Salesforce Platform Developer I, Salesforce Admin, Salesforce Associate
-📚 Research Papers: 5 publications across Springer, Inderscience, and more (🤖 AI, Agriculture, Defense Tech, Innovation)
-💡 Methodologies: Agile (Scrum & Kanban), Lean, Predictive PM
+## 🛠 Technical Toolbox: Python, Apex, LWC, JavaScript, Tableau, Power BI, SQL, MongoDB, HTML/CSS, Figma
+
+## 🚀 Certifications: CAPM®, Salesforce Platform Developer I, Salesforce Admin, Salesforce Associate
+
+## 📚 Research Papers: 5 publications across Springer, Inderscience, and more (🤖 AI, Agriculture, Defense Tech, Innovation)
+
+## 💡 Methodologies: Agile (Scrum & Kanban), Lean, Predictive.
 
 
 
