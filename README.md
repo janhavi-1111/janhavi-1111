@@ -16,27 +16,27 @@ Welcome to my GitHub profile where I share projects, innovations, and ideas at t
 
 ## Featured Projects
 
-📱 Snapchat Enhanced | Product Design & Evaluation | Figma
+## 📱 Snapchat Enhanced | Product Design & Evaluation | Figma
 
 Reimagined Snapchat UX with Quiet Mode, real-time location sharing, and a customizable Discover feed. Created high-fidelity prototypes and user journeys for intuitive navigation.
 
-📊 InteGreat | Advanced Project Management
+## 📊 InteGreat | Advanced Project Management
 
 Planned and executed a full project lifecycle for a social media scheduling app using WBS, Gantt charts, and risk mitigation strategies—bridging technical execution with business vision.
 
-🏠 Smart Homes Industry Strategy | Market Analysis
+## 🏠 Smart Homes Industry Strategy | Market Analysis
 
 Used frameworks like Porter’s Five Forces and VRIO to analyze growth opportunities, market entry barriers, and innovation scope in the smart home industry.
 
-📈 Twitter Sentiment Analysis on Fungus Dataset | Big Data + Hadoop + Hive + Power BI
+## 📈 Twitter Sentiment Analysis on Fungus Dataset | Big Data + Hadoop + Hive + Power BI
 
 Captured and analyzed live Twitter data using Python and Hive, visualized with Power BI to assess public sentiment on a health crisis. Demonstrated how companies, governments, and healthcare providers can make informed, real-time decisions during public health emergencies using big data pipelines.
 
-🧠 Mental Health Analysis Using Machine Learning 🤖 | Python + Sklearn + Plotly
+## 🧠 Mental Health Analysis Using Machine Learning 🤖 | Python + Sklearn + Plotly
 
 Analyzed global mental health survey responses using DASS-21. Built 7 ML models including SVM, Random Forest, AdaBoost, and Voting Classifiers—achieving 100% accuracy for classifying depression, anxiety, and stress severity levels.
 
-🪖 AI in Military Operations: Gesture Recognition 🤖 | OpenCV + MediaPipe + CNN
+## 🪖 AI in Military Operations: Gesture Recognition 🤖 | OpenCV + MediaPipe + CNN
 
 Developed a real-time gesture recognition system to convert military hand signals into speech. Achieved 99% accuracy using CNN, Haar cascades, and MediaPipe. Designed for battlefield communication—lightweight, high-speed, and highly accurate, even under resource constraints.
 
