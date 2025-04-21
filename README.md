@@ -1,3 +1,6 @@
+
+## Janhavi Chavan
+
 Hey! I'm Janhavi 👋
 Welcome to my GitHub profile where I share projects, innovations, and ideas at the intersection of technology and management. I'm a CAPM®-certified Professional and a Former Analyst with a passion for designing intuitive, data-driven solutions that align with both user needs and business goals. With experience at Deloitte USI and a deep understanding of Salesforce, project management, and strategic innovation, I’m currently pursuing my Master’s in Management of Technology at ASU and actively exploring full-time opportunities!
 
